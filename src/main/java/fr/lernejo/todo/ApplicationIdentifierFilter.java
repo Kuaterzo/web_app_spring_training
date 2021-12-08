@@ -1,4 +1,4 @@
-package fr.lernejo;
+package fr.lernejo.todo;
 
 import org.springframework.stereotype.Component;
 
